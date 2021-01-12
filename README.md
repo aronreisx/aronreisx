@@ -9,5 +9,5 @@
 📢 Actively Looking for Junior Job Oportunities !!
 
 <div class="button-group minor-group">
-    <a href="linkedin.com/in/aronreis" class="button">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/aronreis/" class="button">LinkedIn</a>
 </div>
