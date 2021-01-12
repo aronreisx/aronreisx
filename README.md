@@ -8,6 +8,7 @@
 
 📢 Actively Looking for Junior Job Oportunities !!
 
-<div class="button-group minor-group">
-    <a href="https://www.linkedin.com/in/aronreis/" class="button">LinkedIn</a>
-</div>
+🌎 Reach me at:
+
+[![Linkedin Badge](https://img.shields.io/badge/-aronreis-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aronreis/)](https://www.linkedin.com/in/aronreis/)
+[![Gmail Badge](https://img.shields.io/badge/-aronreis2@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aronreis2@gmail.com)](mailto:aronreis2@gmail.com)
