@@ -3,11 +3,9 @@
 
 🔰 Junior Web Developer <br>
 ✒️ Experienced in Graphic Design
-
 🔨 Currently improving some of my full stack skills<br>
 
 📢 Actively Looking for Junior Job Oportunities !!
-
 🌎 Reach me at:
 
 [![Linkedin Badge](https://img.shields.io/badge/-aronreis-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aronreis/)](https://www.linkedin.com/in/aronreis/)
