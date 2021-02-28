@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/aronreisx/aronreisx/main/hero.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/aronreisx/aronreisx/main/programmer.png" width="350"/>
 
 👋 Hi, my name is Aron. <br>
 💚 I am a big fan of the internet - using it since 1998 and still loving the dial-up access sound.
