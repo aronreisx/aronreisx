@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working remotely from Lisbon, Portugal.
+#### I'm a Software Engineer working remotely from Lisbon, Portugal.
 
 ##### BIO
 
