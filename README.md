@@ -13,5 +13,5 @@
 - 🌱 Learning all about **DevOps & Platform Engineering**
 - 💬 Ping me about **technology**, **software development**, **computers**, **career**
 - 📫 Reach me on: [linkedin.com/in/aronreis](https://linkedin.com/in/aronreis)
-- ⚡️ Fun fact: I love cinema, strength training and 3D modeling
+- ⚡️ Fun fact: I love cinema, strength training, 3D modeling and economics
 
