@@ -8,7 +8,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **CGI Inc.**
+- 🏢 I'm currently working at **AB InBev**
 - ⚙️ I use daily: `TypeScript`, `React`, `Angular`, `Node.js`, `Express.js`, `Go`, `PostgreSQL`, `Docker`, `Bash`
 - 🌱 Learning all about **DevOps & Platform Engineering**
 - 💬 Ping me about **technology**, **software development**, **computers**, **career**
