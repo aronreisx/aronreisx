@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-#### I'm a Software Engineer working remotely from Lisbon, Portugal.
+#### I'm a AI Software Engineer working remotely from Lisbon, Portugal.
 
 ##### BIO
 
-- 🏢 I'm currently working at **AB InBev**
-- ⚙️ I use daily: `TypeScript`, `React`, `Node.js`, `Go`, `PostgreSQL`, `Docker`, `Kubernetes`, `ArgoCD`, `Bash`
-- 🌱 Learning all about **DevOps & Platform Engineering**
-- 💬 Ping me about **technology**, **software development**, **computers**, **career**
+- 🏢 I'm currently working at **CGI, Inc.**
+- ⚙️ I use daily: `Python`, `TypeScript`, `Go`, `Docker`, `Kubernetes`, `Bash`
+- 🌱 Learning all about **AI Engineering & Platform Engineering**
+- 💬 Ping me about **technology**, **networks**, **computers**, **career**
 - 📫 Reach me on: [linkedin.com/in/aronreis](https://linkedin.com/in/aronreis)
-- ⚡️ Fun fact: I love cinema, strength training, 3D modeling and economics
+- ⚡️ Fun fact: I love cinema, 3D printing and global economy
 
